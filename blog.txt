@@ -4,4 +4,5 @@ incluida la cabecera
 
 seccion  que muestra las entradas creadas y posts creados para el sitio
 
+incluyen paginas 
 incluido el pie 
